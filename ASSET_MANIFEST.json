@@ -1,0 +1,539 @@
+{
+  "project": "Mahoosh Deluxe",
+  "source_image_rule": "All 14 images extracted from the newly uploaded images ZIP were copied byte-for-byte to the semantic website paths listed below. No source pixels were cropped, retouched, recolored, masked, or recompressed.",
+  "source_images": [
+    {
+      "source_filename_in_uploaded_zip": "IMG_7405 (1).JPG",
+      "website_path": "./assets/secret-envelope-original.jpg",
+      "sha256": "2f839106e0a88718e77c3bd65ad475c17d77999494362a1f04bc79e36fdb5a37",
+      "bytes": 132254,
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7406 (1).JPG",
+      "website_path": "./assets/birthday-cake-original.jpg",
+      "sha256": "9318018ab0248c5de0b48b1ba5adedec9f337a7cfcb5fbfcafbf8c83b0b7f89c",
+      "bytes": 237559,
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7407.JPG",
+      "website_path": "./assets/memory-01-first-date.jpg",
+      "sha256": "bac444f3480c5cd12696c8223326f511208645634b1f56f7c31f3c8b3056f1ff",
+      "bytes": 237099,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7409.JPG",
+      "website_path": "./assets/memory-02-bowling.jpg",
+      "sha256": "0088c11cff0df91e7273c0f36036c5fbfc66bb44a57548eb65dca0fe775e7083",
+      "bytes": 123612,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7410.JPG",
+      "website_path": "./assets/memory-03-birthday-message.jpg",
+      "sha256": "aacf65ca8e58674d39aca39c7cb7ff94588a86f09786b492288946479d894049",
+      "bytes": 124215,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7411.JPG",
+      "website_path": "./assets/memory-04-gifts-doodi.jpg",
+      "sha256": "1d7e206e7f36f3dc303b17349314a24d6bfd53643d651442eb94d58da5e7c2b3",
+      "bytes": 172806,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7412.JPG",
+      "website_path": "./assets/dream-airport-background.jpg",
+      "sha256": "b8ae900bae0e0d5f4e55717b266295b05affcd8b669c51b11687b41fc54004a6",
+      "bytes": 152240,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7413.JPG",
+      "website_path": "./assets/memory-05-future-dream.jpg",
+      "sha256": "1abe57fe485624968ec4b8a4f3e49cee1f71915fe92573139ed07636a41a019b",
+      "bytes": 187877,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7415.JPG",
+      "website_path": "./assets/memory-06-bebao.jpg",
+      "sha256": "a52e096966b524a08e9d1ecc8a9b9346256ad7f02db3b0509fd06f1830885c9d",
+      "bytes": 165324,
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7416.JPG",
+      "website_path": "./assets/diary-open-book-original.jpg",
+      "sha256": "061eb548d29437d5c3d557d54f1ce6376704097fab917c8cdcb2995f4e55a1ff",
+      "bytes": 174323,
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7418.JPG",
+      "website_path": "./assets/riddle-background.jpg",
+      "sha256": "3c91f17f4fa91e0fd7f1891ed5e9d6922ab356e74fc16d361e5e7d990dd6cb45",
+      "bytes": 55858,
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7419.JPG",
+      "website_path": "./assets/comfort-shelter-background.jpg",
+      "sha256": "cec21825f14aaee47a4bae5325d1f087b1c71296e9050da03b48a52ccaf02dfd",
+      "bytes": 126541,
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7421.JPG",
+      "website_path": "./assets/starry-sky-background.jpg",
+      "sha256": "397355247f5ddb08f89b68694626d02bbc158fbc09635dc52e1e75078613bd92",
+      "bytes": 161773,
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG",
+      "transformed": false
+    },
+    {
+      "source_filename_in_uploaded_zip": "IMG_7422.JPG",
+      "website_path": "./assets/diary-cover-stack-original.jpg",
+      "sha256": "f33852a46e6b483221583b4d6f6d73da51350d6fa5d03100915659192384bdf1",
+      "bytes": 215307,
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG",
+      "transformed": false
+    }
+  ],
+  "assets": [
+    {
+      "path": "./assets/bg-01.jpg",
+      "bytes": 310624,
+      "sha256": "7fb630752bc9cea42203a42b4f91fb8af31c9f6f5cb341436070617cecf0eaa7",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-02.jpg",
+      "bytes": 580790,
+      "sha256": "653c12bb11f7a4de8596bc4c23068b92afd98e22ca6ae9d7ff5276cf5f959dca",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-03.jpg",
+      "bytes": 448702,
+      "sha256": "3a1bd0f7ec72a9da3fad186ba784d2997cca12f011a3dc2a16c25e44ce29aa2a",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-04.jpg",
+      "bytes": 697858,
+      "sha256": "8bc75ebb9e79f3666f1d5f601732c8b803808368c032897161435d5996189df0",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-05.jpg",
+      "bytes": 520030,
+      "sha256": "736a8a43683042170eb1feb51f4cced2244bc6c976c91da385e26bbd555a41e2",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-06.jpg",
+      "bytes": 583187,
+      "sha256": "deb01263c36791023946d8ca377edd085c9bf9498f176ee1bf2843b68657138d",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-07.jpg",
+      "bytes": 603814,
+      "sha256": "708277ffe3128f07d03ee8a688bedf93f2e85c16d2b079a76379c2cb9b7b49ad",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-08.jpg",
+      "bytes": 557340,
+      "sha256": "3f713b142319c88840dd34ce2314cdc9b3bee0ad715123528183886068085e74",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-09.jpg",
+      "bytes": 709436,
+      "sha256": "705f236104e9ef541ed46d52a0f043f2810cbb44e2b109735aa00f1f89f0d19d",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-10.jpg",
+      "bytes": 379145,
+      "sha256": "fb4a114e38fd07d9152dbe8615fd6072e7c1eae600d5e83963313ae6f07099da",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-11.jpg",
+      "bytes": 512840,
+      "sha256": "fb255d8991441cc42339399b22d13916378a1582de8bf9e043b1d39de3d15c6b",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-12.jpg",
+      "bytes": 331589,
+      "sha256": "decde51ad4cbebb29e34e344a3742b8aa525e9365f7667fc2510fd592786c239",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-13.jpg",
+      "bytes": 428213,
+      "sha256": "be75f54acf47b93b1478885b0abee85f991267217cf2d30af52b9b080000c326",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/bg-14.jpg",
+      "bytes": 406412,
+      "sha256": "9313539f0f9673a704ceded30badaeeb08f5abf79c95e8e8bc3cd896a9038ed3",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/birthday-cake-original.jpg",
+      "bytes": 237559,
+      "sha256": "9318018ab0248c5de0b48b1ba5adedec9f337a7cfcb5fbfcafbf8c83b0b7f89c",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/butterfly-blue.svg",
+      "bytes": 1685,
+      "sha256": "ce3b2bcf546d55ae113146eff6fe4e6c89c8bceecb09ef627a0290b46fce7cdd"
+    },
+    {
+      "path": "./assets/comfort-shelter-background.jpg",
+      "bytes": 126541,
+      "sha256": "cec21825f14aaee47a4bae5325d1f087b1c71296e9050da03b48a52ccaf02dfd",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-campus.jpg",
+      "bytes": 422376,
+      "sha256": "006ad8459025236ef4e07ff3adab72347f7dec526ef869c35bf138f101b8de33",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-cover-stack-original.jpg",
+      "bytes": 215307,
+      "sha256": "f33852a46e6b483221583b4d6f6d73da51350d6fa5d03100915659192384bdf1",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-dreams.jpg",
+      "bytes": 519967,
+      "sha256": "304bb974d4bdd11051fcaf32c4dafeb2b8f53c91aafc9b1eef2bc3d63fab4846",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-open-book-original.jpg",
+      "bytes": 174323,
+      "sha256": "061eb548d29437d5c3d557d54f1ce6376704097fab917c8cdcb2995f4e55a1ff",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-origin.jpg",
+      "bytes": 392198,
+      "sha256": "cdbeb5f9ed4720936fc0ae6a88bc7d07ee758eb4f04b57dc486bb9ccd874c1d6",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/diary-phone.jpg",
+      "bytes": 411497,
+      "sha256": "e778f8e9c743ce1d67e72da1bb999302bdf70c2146e60ebd8cb7d188678cf654",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/dream-airport-background.jpg",
+      "bytes": 152240,
+      "sha256": "b8ae900bae0e0d5f4e55717b266295b05affcd8b669c51b11687b41fc54004a6",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-01-first-date.jpg",
+      "bytes": 237099,
+      "sha256": "bac444f3480c5cd12696c8223326f511208645634b1f56f7c31f3c8b3056f1ff",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-02-bowling.jpg",
+      "bytes": 123612,
+      "sha256": "0088c11cff0df91e7273c0f36036c5fbfc66bb44a57548eb65dca0fe775e7083",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-03-birthday-message.jpg",
+      "bytes": 124215,
+      "sha256": "aacf65ca8e58674d39aca39c7cb7ff94588a86f09786b492288946479d894049",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-04-gifts-doodi.jpg",
+      "bytes": 172806,
+      "sha256": "1d7e206e7f36f3dc303b17349314a24d6bfd53643d651442eb94d58da5e7c2b3",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-05-future-dream.jpg",
+      "bytes": 187877,
+      "sha256": "1abe57fe485624968ec4b8a4f3e49cee1f71915fe92573139ed07636a41a019b",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/memory-06-bebao.jpg",
+      "bytes": 165324,
+      "sha256": "a52e096966b524a08e9d1ecc8a9b9346256ad7f02db3b0509fd06f1830885c9d",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/riddle-background.jpg",
+      "bytes": 55858,
+      "sha256": "3c91f17f4fa91e0fd7f1891ed5e9d6922ab356e74fc16d361e5e7d990dd6cb45",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/riddles.js",
+      "bytes": 65184,
+      "sha256": "682256f5ba55b4e33b4a74613a959ed5e95955fe0d53918a6dbb3150c6b54c00"
+    },
+    {
+      "path": "./assets/secret-envelope-original.jpg",
+      "bytes": 132254,
+      "sha256": "2f839106e0a88718e77c3bd65ad475c17d77999494362a1f04bc79e36fdb5a37",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "./assets/starry-sky-background.jpg",
+      "bytes": 161773,
+      "sha256": "397355247f5ddb08f89b68694626d02bbc158fbc09635dc52e1e75078613bd92",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "format": "JPEG"
+    }
+  ],
+  "backgrounds_preserved": [
+    "./assets/bg-01.jpg",
+    "./assets/bg-02.jpg",
+    "./assets/bg-03.jpg",
+    "./assets/bg-04.jpg",
+    "./assets/bg-05.jpg",
+    "./assets/bg-06.jpg",
+    "./assets/bg-07.jpg",
+    "./assets/bg-08.jpg",
+    "./assets/bg-09.jpg",
+    "./assets/bg-10.jpg",
+    "./assets/bg-11.jpg",
+    "./assets/bg-12.jpg",
+    "./assets/bg-13.jpg",
+    "./assets/bg-14.jpg"
+  ],
+  "local_songs": [
+    "./songs/song1.mp3",
+    "./songs/song2.mp3",
+    "./songs/song3.mp3",
+    "./songs/song4.mp3",
+    "./songs/song5.mp3",
+    "./songs/song6.mp3",
+    "./songs/song7.mp3"
+  ],
+  "notes": [
+    "The supplied cake artwork is used unchanged; no extra HTML candle bodies or flame overlays are rendered.",
+    "The memory thumbnails and modal photographs use object-fit:contain to preserve the full photo.",
+    "The open diary image is displayed at its native 1408:768 aspect ratio; six independent photos are placed with separate transforms.",
+    "At widths up to 900px, the complete open-book image stays at a readable native-ratio canvas and the diary viewport scrolls horizontally rather than shrinking the six photos.",
+    "The sharp desktop wallpaper layer keeps the image ratio; only a blurred duplicate uses cover sizing to fill wide-screen margins.",
+    "The supplied checkerboard-patterned JPG pixels are intentionally retained exactly as provided."
+  ]
+}
