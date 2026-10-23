@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Blue butterfly">
+<defs>
+ <linearGradient id="wingA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dff6ff"/><stop offset=".45" stop-color="#7bc8ff"/><stop offset="1" stop-color="#508fe7"/></linearGradient>
+ <linearGradient id="wingB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cbeeff"/><stop offset=".55" stop-color="#83b8f9"/><stop offset="1" stop-color="#9d9af5"/></linearGradient>
+ <linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4fbff"/><stop offset="1" stop-color="#5279c9"/></linearGradient>
+</defs>
+<g stroke="#effaff" stroke-width="2.5" stroke-linejoin="round">
+ <path fill="url(#wingA)" d="M60 59C46 31 17 13 10 28 1 47 20 70 44 73 23 76 17 91 28 104 40 117 57 93 63 75Z"/>
+ <path fill="url(#wingA)" d="M68 59C82 31 111 13 118 28 127 47 108 70 84 73 105 76 111 91 100 104 88 117 71 93 65 75Z"/>
+ <path fill="url(#wingB)" d="M57 61C44 46 30 43 27 51 23 62 36 71 53 73Z"/>
+ <path fill="url(#wingB)" d="M71 61C84 46 98 43 101 51 105 62 92 71 75 73Z"/>
+ <path fill="url(#body)" stroke="#eaf8ff" d="M64 51C59 59 58 70 62 83L64 91 66 83C70 70 69 59 64 51Z"/>
+</g>
+<g fill="#ffffff" opacity=".92"><circle cx="22" cy="37" r="3.1"/><circle cx="37" cy="51" r="2.4"/><circle cx="105" cy="37" r="3.1"/><circle cx="91" cy="51" r="2.4"/><circle cx="38" cy="91" r="2.7"/><circle cx="90" cy="91" r="2.7"/></g>
+<g fill="none" stroke="#88bff6" stroke-width="2.2" stroke-linecap="round"><path d="M62 53Q48 33 42 25"/><path d="M66 53Q80 33 86 25"/></g>
+<g fill="#dff7ff"><circle cx="42" cy="25" r="2.5"/><circle cx="86" cy="25" r="2.5"/></g>
+</svg>
